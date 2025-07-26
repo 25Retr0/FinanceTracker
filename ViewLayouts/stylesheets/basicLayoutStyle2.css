@@ -1,0 +1,7 @@
+/* Separator Style */
+
+/* Vertical */
+.colored-separator:vertical .line {
+    -fx-border-color: #A9A9A9;
+    -fx-border-width: 2;
+}
